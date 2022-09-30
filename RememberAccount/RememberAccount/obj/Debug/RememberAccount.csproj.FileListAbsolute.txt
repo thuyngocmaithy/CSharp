@@ -1,0 +1,12 @@
+C:\Users\thuyn\OneDrive\Tài liệu\C#\RememberAccount\RememberAccount\bin\Debug\RememberAccount.exe.config
+C:\Users\thuyn\OneDrive\Tài liệu\C#\RememberAccount\RememberAccount\bin\Debug\RememberAccount.exe
+C:\Users\thuyn\OneDrive\Tài liệu\C#\RememberAccount\RememberAccount\bin\Debug\RememberAccount.pdb
+C:\Users\thuyn\OneDrive\Tài liệu\C#\RememberAccount\RememberAccount\obj\Debug\RememberAccount.csproj.AssemblyReference.cache
+C:\Users\thuyn\OneDrive\Tài liệu\C#\RememberAccount\RememberAccount\obj\Debug\RememberAccount.csproj.SuggestedBindingRedirects.cache
+C:\Users\thuyn\OneDrive\Tài liệu\C#\RememberAccount\RememberAccount\obj\Debug\RememberAccount.Form1.resources
+C:\Users\thuyn\OneDrive\Tài liệu\C#\RememberAccount\RememberAccount\obj\Debug\RememberAccount.Properties.Resources.resources
+C:\Users\thuyn\OneDrive\Tài liệu\C#\RememberAccount\RememberAccount\obj\Debug\RememberAccount.csproj.GenerateResource.cache
+C:\Users\thuyn\OneDrive\Tài liệu\C#\RememberAccount\RememberAccount\obj\Debug\RememberAccount.csproj.CoreCompileInputs.cache
+C:\Users\thuyn\OneDrive\Tài liệu\C#\RememberAccount\RememberAccount\obj\Debug\RememberAccount.exe
+C:\Users\thuyn\OneDrive\Tài liệu\C#\RememberAccount\RememberAccount\obj\Debug\RememberAccount.pdb
+C:\Users\thuyn\OneDrive\Tài liệu\C#\RememberAccount\RememberAccount\obj\Debug\RememberAccount.Form2.resources
